@@ -33,8 +33,6 @@ img {
 }
 
 footer {
-  flex-shrink: 0;
-  padding: 10px;
   color:black;
   font-weight: 900;
   margin-top: 5%;
