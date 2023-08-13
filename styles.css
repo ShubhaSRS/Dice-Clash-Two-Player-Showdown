@@ -32,10 +32,9 @@ img {
   width: 80%;
 }
 
-footer {
+footer p {
   color:black;
   font-weight: 900;
-  margin-top: 5%;
   text-align: center;
   font-family: 'Indie Flower', cursive;
   background-color: white;
